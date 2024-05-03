@@ -1,6 +1,6 @@
 {
   "name": "@firanorg/commodi-recusandae-provident",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -22,6 +22,7 @@
     "@firanorg/scaling-goggles": "^2.1.7",
     "@firanorg/soluta-perferendis-tenetur": "^1.0.0",
     "@firanorg/voluptatibus-soluta-dignissimos": "^1.0.0",
+    "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
     "corcojs-qrcode-sample": "^1.0.1",
     "dable-effect": "^1.0.2",
